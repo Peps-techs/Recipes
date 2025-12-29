@@ -1,3 +1,4 @@
 # Recipes
 My favorite recipes
- I am learning git basics within the Odin Project and moving quickly. I can't wait to practice more! 
+<p> I am learning git basics within the Odin Project. I can't wait to practice more! </p>
+
